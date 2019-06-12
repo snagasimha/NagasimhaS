@@ -1,0 +1,6 @@
+echo "# NagasimhaS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/snagasimha/NagasimhaS.git
+git push -u origin master
